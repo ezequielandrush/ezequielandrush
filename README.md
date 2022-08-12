@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning all I can about kubernetes. Man, I love kubernetes. 
 - 📫 Feel free to contact me via DM or email
 
+:earth_americas: Spanish (native), English (fluent)
+
 <!---
 ezequielandrush/ezequielandrush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
