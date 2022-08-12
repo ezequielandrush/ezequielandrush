@@ -4,8 +4,7 @@
 - 👀 I’m interested in technology as a whole. I recently got an Arduino board and I have a (nearly dead) project of a robot. I'd like to finish that one day, but couldn't find the time yet.
 - 🌱 I’m currently learning all I can about kubernetes. Man, I love kubernetes. 
 - 📫 Feel free to contact me via DM or email
-
-:earth_americas: Spanish (native), English (fluent)
+- :earth_americas: Languages: Spanish (native), English (fluent)
 
 <!---
 ezequielandrush/ezequielandrush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
